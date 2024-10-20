@@ -1,5 +1,4 @@
 /* eslint-disable no-undef */
-
 describe("Login Tests", () => {
   beforeEach(() => {
       cy.visit("https://norofffeu.github.io/social-media-client/"); 
